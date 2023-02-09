@@ -1,0 +1,232 @@
+.btn{
+    border-radius: 9999px;
+}
+.span_gap{
+    margin: 5px 5px 0 5px;
+}
+.gap{
+    padding: 5% 10% 0.5%;
+    background: #fff;
+}
+.heading_center{
+    padding: 5% 2% 5% 14%;
+    text-align: center;
+}
+.header_heading{
+    font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 60px;
+color: #554D89;
+text-align: left;
+}
+.header_person{
+    height: 500px;
+}
+@media(max-width :768px)
+{
+    .header_person{
+        width: 350px;
+        height: 350px;
+        margin-left: -50px;
+    }
+}
+.heading_para{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    color: #5B5766;
+    text-align: left;
+}
+.heading_btn{
+    background: linear-gradient(26.57deg, #6852ED 16.67%, #BA43FC 100%);
+    margin-right: 20px;
+    border: none;
+}
+.heading_btnn{
+   background: #fff;
+   color: #554D89;
+   outline: none;
+   border: none;
+}
+.button{
+    text-align: left;
+}
+.card-body{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px #E1E4ED;
+    border-radius: 10px;
+}
+.card-white-heading{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+color: #554D89;
+}
+.card-white-para{
+    font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #716C80;
+}
+.card-color{
+    background: linear-gradient(26.57deg, #6852ED 16.67%, #BA43FC 100%);
+}
+.card-color-heading{
+    font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+color: #FFFFFF;
+}
+.card-color-para{
+    font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #FFFFFF;
+}
+.cursor{
+    cursor: pointer;
+}
+
+.audience-center{
+    padding: 5% 2% 5% 2%;
+    text-align: center; 
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.skills_center{
+    padding: 0 2% 0 2%;
+    text-align: center; 
+}
+#contact_us{
+    padding-top: 5%;
+}
+.skill_heading{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 27px;
+text-align: left;
+color: #5B5766;
+margin-top: 12px;
+}
+.progress {
+    height: 12px;
+}
+.progress-bar {
+    background: #6852ED;
+}
+.working_heading{
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 42px;
+    color: #554D89;
+    margin:6px 0;
+}
+.working_para{
+    font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+color: #5B5766;
+padding: 0 15%;
+}
+.contact_heading{
+    font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+color: #554D89;
+margin-left: -85px;
+text-align: left;
+}
+.contact_us_button{
+    margin-top: 5px ;
+    margin-left: 10px;
+}
+.card_two_style{
+    padding: 45px;
+}
+.card_content{
+    display: inline-flex;
+    align-items: center;
+   
+}
+.card_two_para{
+    margin:0 0 1px 10px;
+    color: #716C80;
+}
+h4{
+    font-weight: 700;
+font-size: 15px;
+color: #554D89;
+}
+.card_two_heading{
+    font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+color: #554D89;
+}
+.second_heading_card{
+    font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+color: #5B5766;
+mix-blend-mode: normal;
+opacity: 0.8;
+margin-bottom: 25%;
+}
+#footer{
+    padding-top: 7%;
+}
+.container1 {
+    position: relative;
+}
+.text-block {
+    position: absolute;
+    top: 20%;
+    left: 17%;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.text-block-2 {
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.text-block-3 {
+    position: absolute;
+    top: 20%;
+    right: 10%;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.footer_style{
+    display: inline-flex;
+    align-items: center;
+}
+table, th, td {
+    border: none;
+    border-collapse: collapse;
+}
+.form-control{
+    border-radius: 9999px;
+}
